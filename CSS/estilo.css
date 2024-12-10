@@ -1,0 +1,15 @@
+button{
+    font-size: 50px;
+    padding: 5px 25px 5px 25px;
+    outline: none;
+    background-color: aqua;
+    color: red;
+    border-radius: 30px;
+}
+
+button:hover{
+    background-color: blue;
+    color: brown;
+    outline: 20%;
+    cursor: pointer;
+}
